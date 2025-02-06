@@ -1,3 +1,4 @@
 #!/bin/sh
 
-zip -r9 site.zip public/*
+cd public
+zip -r9 ../site.zip .

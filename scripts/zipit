@@ -1,4 +1,5 @@
 #!/bin/sh
 
+hugo build
 cd public
 zip -r9 ../site.zip .

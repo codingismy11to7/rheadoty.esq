@@ -1,1 +1,1 @@
-:phone: Text or Call me at [859-806-9364](tel:859-806-9364) :phone:
+:phone: [Text](sms:+15598069364) or [Call](tel:+15598069364) me at 559.806.9364 :phone:

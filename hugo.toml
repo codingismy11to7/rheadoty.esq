@@ -14,6 +14,7 @@ disableKinds = ["taxonomy", "term"]
   image = "img/rhea.jpg"  # path relative to static directory
 
   links = [
+    { link = { href = "https://calendly.com/rhea-larsenfirm/estate-planning-consultation-1", text = "Schedule a Consultation" } },
     { instagram = "https://instagram.com/atl_estate_attorney" },
     { linkedin = "https://linkedin.com/in/rdoty" },
     { email = "mailto:rhea@larsenfirm.com" },
